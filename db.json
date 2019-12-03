@@ -1,4 +1,4 @@
-{
+[
 { "Name": "Albacete"},
 { "Name": "Alicante"},
 { "Name": "Almería"},
@@ -13,13 +13,13 @@
 { "Name": "Castellón"},
 { "Name": "Ciudad Real"},
 { "Name": "Córdoba"},
-{ "Name": “A Coruña"},
+{ "Name": "A Coruña"},
 { "Name": "Cuenca"},
 { "Name": "Gerona"},
 { "Name": "Granada"},
 { "Name": "Guadalajara"},
 { "Name": "Guipúzcoa"},
-{ "Name": “Euskadi”},
+{ "Name": "Euskadi"},
 { "Name": "Huelva"},
 { "Name": "Huesca"},
 { "Name": "Islas Baleares"},
@@ -48,9 +48,9 @@
 { "Name": "Valladolid"},
 { "Name": "Zamora"},
 { "Name": "Zaragoza"},
-{ "Name": “La Palma”},
-{ "Name": “El Hierro”},
-{ "Name": “Gomera”},
-{ "Name": “Gran Canaria”},
-{ "Name": “Lanzarote”}
-}
+{ "Name": "La Palma"},
+{ "Name": "El Hierro"},
+{ "Name": "Gomera"},
+{ "Name": "Gran Canaria"},
+{ "Name": "Lanzarote"}
+]
